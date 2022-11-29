@@ -1,0 +1,36 @@
+#inst{
+    border: 1px solid white;
+    margin-top: 10px;
+    background-color: black;
+}
+#game{
+    color: yellow;
+    margin-left: 10px;
+}
+#time{
+    width: fit-content;
+    display: inline-block;
+}
+#scored{
+    width: fit-content;
+    display: inline-block;
+}
+.fa-envelope{
+    color: red;
+}
+.fa-instagram{
+    color: hotpink;
+}
+.fa-linkedin{
+    color: blue;
+}
+a{
+    float: right;
+    letter-spacing: 10px;
+}
+.lead{
+    font-family: cursive;
+}
+#create{
+    background-color: #FF7000 !important;
+}
